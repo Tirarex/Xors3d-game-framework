@@ -1,0 +1,53 @@
+1
+Game
+
+2
+Settings
+
+3
+Authors
+
+4
+Exit
+
+5
+Load
+
+6
+New
+
+7
+Resolution:
+
+8
+Full screen:
+
+9
+Vsunc:
+
+10
+Shadows:
+
+11
+Reflections:
+
+12
+Aa: 
+
+13
+Paralax:
+
+14
+Particle light:
+
+15
+Post processing:
+
+16
+Back
+
+17
+Exit 2 menu
+
+18
+Save settings
